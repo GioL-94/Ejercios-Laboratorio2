@@ -1,0 +1,12 @@
+D:\Laboratorio 2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Ejercicio2.exe
+D:\Laboratorio 2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Ejercicio2.deps.json
+D:\Laboratorio 2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Ejercicio2.runtimeconfig.json
+D:\Laboratorio 2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Ejercicio2.runtimeconfig.dev.json
+D:\Laboratorio 2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Ejercicio2.dll
+D:\Laboratorio 2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Ejercicio2.pdb
+D:\Laboratorio 2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Ejercicio2.AssemblyInfoInputs.cache
+D:\Laboratorio 2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Ejercicio2.AssemblyInfo.cs
+D:\Laboratorio 2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Ejercicio2.csproj.CoreCompileInputs.cache
+D:\Laboratorio 2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Ejercicio2.dll
+D:\Laboratorio 2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Ejercicio2.pdb
+D:\Laboratorio 2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Ejercicio2.genruntimeconfig.cache
